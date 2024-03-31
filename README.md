@@ -50,4 +50,4 @@
 
 ## Автор
 
-[rmn3s1v]
+[rmn3s1v](https://github.com/rmn3s1v)
